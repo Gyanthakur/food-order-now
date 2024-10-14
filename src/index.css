@@ -8,6 +8,7 @@
 	margin: 0;
 	box-sizing: border-box;
   font-family: Outfit;
+  scroll-behavior: smooth;
 }
 
 
@@ -22,7 +23,7 @@ a{
 
 .app{
   /* width: 80%; */
-  width: 96%;
+  width: 94%;
   margin: auto;
 }
 

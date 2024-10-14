@@ -31,7 +31,7 @@ const Footer = () => {
 				<div className="footer-content-right">
                     <h2>GET IN TOUCH</h2>
                     <ul>
-                        <li>+1-267-726-2456</li>
+                        <li>+91-895-7818-597</li>
                         <li>contact@yourfood.com</li>
                     </ul>
                 </div>
