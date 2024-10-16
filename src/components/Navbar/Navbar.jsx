@@ -45,4 +45,3 @@ const Navbar = ({setShowlogin}) => {
 }
 
 export default Navbar;
-
