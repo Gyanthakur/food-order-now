@@ -18,6 +18,7 @@
     padding: 10px 20px;
     color: #454545;
     border: 1px solid tomato;
+    border-radius: 4px;
 }
 
 .my-orders-order img{
@@ -40,6 +41,10 @@
     background-color: #ffe1e1;
     cursor: pointer;
     color: #454545;
+}
+.my-orders-order button:hover{
+    background-color: hotpink;
+    color: white;
 }
 
 @media (max-width:900px) {
